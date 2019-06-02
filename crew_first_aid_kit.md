@@ -6,6 +6,8 @@ This document can be found here:
 
 The contents are the combined set of several lists.
 
+This is an open source list. I'll accept pull requests, or fork it into your own repository to maintain a private list.
+
 ## Wound Care/Burn/Blister
 - [ ] 6	Antiseptic Towelette
 - [ ] 2	Athletic Tape Rolls
