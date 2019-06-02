@@ -1,3 +1,11 @@
+# Example BSA Crew WFA First Aid Kit
+## Description
+This document can be found here:
+
+[https://github.com/bhaines/crew\_first\_aid\_kit/blob/master/crew\_first\_aid\_kit.md](https://github.com/bhaines/crew_first_aid_kit/blob/master/crew_first_aid_kit.md)
+
+The contents are the combined set of several lists.
+
 ## Wound Care/Burn/Blister
 - [ ] 6	Antiseptic Towelette
 - [ ] 2	Athletic Tape Rolls
@@ -21,6 +29,7 @@
 - [ ] 1	Trauma Pad, 5" X 9"
 - [ ] 6	Alcohol swabs
 - [ ] 4	Triple Antibiotic Ointment, 1/32 oz
+
 ## Medications
 - [ ] 3	Antacid
 - [ ] 4	Ibuprofen (200 mg), Pkg./2
@@ -31,6 +40,8 @@
 - [ ] 1	After Bite Sting and Itch Relief Wipe
 - [ ] 1	Aloe Vera
 - [ ] 6	Burn Cream
+- [ ] 1	Gold Bond
+
 ## Instruments
 - [ ] 1	CPR Breathing Barrier
 - [ ] 1	First aid manual
@@ -53,5 +64,6 @@
 - [ ] 3	Zip bags
 - [ ] 1	Finger splint
 - [ ] 2	Emergency blankets
-As Necessary
+
+## As Necessary
 - [ ] 1	Anaphylaxis kit
