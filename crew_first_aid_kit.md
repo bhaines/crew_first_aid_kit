@@ -69,3 +69,111 @@ This is an open source list. I'll accept pull requests, or fork it into your own
 
 ## As Necessary
 - [ ] 1	Anaphylaxis kit
+
+## Details
+
+### <a name="Antiseptic Towelette">Antiseptic Towelette</a>
+
+### <a name="Athletic Tape Rolls">Athletic Tape Rolls</a>
+
+### <a name="Moleskin">Moleskin</a>
+
+### <a name="Bandage, Adhesive, Fabric, 1" X 3"">Bandage, Adhesive, Fabric, 1" X 3"</a>
+
+### <a name="Bandage, Adhesive, Fabric, Knuckle">Bandage, Adhesive, Fabric, Knuckle</a>
+
+### <a name="Gauze Roll, 3"">Gauze Roll, 3"</a>
+
+### <a name="Gauze, 2" X 2", Pkg./2">Gauze, 2" X 2", Pkg./2</a>
+
+### <a name="Gauze, 4" X 4", Pkg./2">Gauze, 4" X 4", Pkg./2</a>
+
+### <a name="Waterproof Bandages">Waterproof Bandages</a>
+
+### <a name="Blister Bandages">Blister Bandages</a>
+
+### <a name="Oval eye patch">Oval eye patch</a>
+
+### <a name="Cotton Tip Applicator, Pkg./2">Cotton Tip Applicator, Pkg./2</a>
+
+### <a name="Cravat, triangle bandages">Cravat, triangle bandages</a>
+
+### <a name="Elastic Bandage with Velcro Closure, 3"">Elastic Bandage with Velcro Closure, 3"</a>
+
+### <a name="Povidone Iodine, 1oz.">Povidone Iodine, 1oz.</a>
+
+### <a name="Quick Clot">Quick Clot</a>
+
+### <a name="Second Skin">Second Skin</a>
+
+### <a name="Steri Strips, 1" X 4, Pkg./10">Steri Strips, 1" X 4, Pkg./10</a>
+
+### <a name="Tegaderm Transparent Film Dressing">Tegaderm Transparent Film Dressing</a>
+
+### <a name="Trauma Pad, 5" X 9"">Trauma Pad, 5" X 9"</a>
+
+### <a name="Alcohol swabs">Alcohol swabs</a>
+
+### <a name="Triple Antibiotic Ointment, 1/32 oz">Triple Antibiotic Ointment, 1/32 oz</a>
+
+### <a name="Antacid">Antacid</a>
+
+### <a name="Ibuprofen (200 mg), Pkg./2">Ibuprofen (200 mg), Pkg./2</a>
+
+### <a name="Acetaminophen (500mg), Pkg./2">Acetaminophen (500mg), Pkg./2</a>
+
+### <a name="Antihistamine (Diphenhydramine 25 mg)">Antihistamine (Diphenhydramine 25 mg)</a>
+
+### <a name="Diamode (Loperamide HCL 2mg), Pkg./1">Diamode (Loperamide HCL 2mg), Pkg./1</a>
+
+### <a name="Aspirin (325 mg), Pkg./2">Aspirin (325 mg), Pkg./2</a>
+
+### <a name="After Bite Sting and Itch Relief Wipe">After Bite Sting and Itch Relief Wipe</a>
+
+### <a name="Aloe Vera">Aloe Vera</a>
+
+### <a name="Burn Cream">Burn Cream</a>
+
+### <a name="Gold Bond">Gold Bond</a>
+
+### <a name="CPR Breathing Barrier">CPR Breathing Barrier</a>
+
+### <a name="First aid manual">First aid manual</a>
+
+### <a name="Gloves, Nitrile (Pair), One Hand Wipe">Gloves, Nitrile (Pair), One Hand Wipe</a>
+
+### <a name="Tick Remover">Tick Remover</a>
+
+### <a name="Magnifing Glass, in Tick remover package">Magnifing Glass, in Tick remover package</a>
+
+### <a name="Notepad">Notepad</a>
+
+### <a name="Patient Assessment Form">Patient Assessment Form</a>
+
+### <a name="Safety pins">Safety pins</a>
+
+### <a name="SAM Splint">SAM Splint</a>
+
+### <a name="Syringe, 12cc">Syringe, 12cc</a>
+
+### <a name="Thermometer, Disposable">Thermometer, Disposable</a>
+
+### <a name="Trauma Scissors">Trauma Scissors</a>
+
+### <a name="Tweezers">Tweezers</a>
+
+### <a name="Pencil">Pencil</a>
+
+### <a name="Water disinfectant">Water disinfectant</a>
+
+### <a name="Nail clippers">Nail clippers</a>
+
+### <a name="Soap sheets">Soap sheets</a>
+
+### <a name="Towel tablets">Towel tablets</a>
+
+### <a name="Zip bags">Zip bags</a>
+
+### <a name="Finger splint">Finger splint</a>
+
+### <a name="Emergency blankets">Emergency blankets</a>
